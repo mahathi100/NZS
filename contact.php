@@ -5,7 +5,7 @@ $subject = $_POST['subject'];
 $message = $_POST['message'];
 
 
-$email_form = 'mahathirmohammad444@gmail.com';
+$email_form = 'info@mahathi100.github.io/NZS';
 
 $email_subject = 'New from Submission';
 
