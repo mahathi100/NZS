@@ -557,3 +557,31 @@ padding: 18px 0;
     border: 1px solid #ccc;
     box-sizing: border-box;
 }
+
+.teacher-content{
+    width: 80%;
+    margin: auto;
+    padding: 60px 0;
+}
+
+.teacher-tbl{
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    background: #999;
+    border: 1px solid black;
+}
+.teacher-tbl, th ,td{
+    border: 1px solid black;
+}
+.teacher-tbl .pic img{
+    width: 100px;
+}
+
+
+
+
+
+
+
